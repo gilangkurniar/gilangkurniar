@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilangkurniar&label=Profile%20views&color=0e75b6&style=flat" alt="gilangkurniar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gkrmdhn" target="blank"><img src="https://img.shields.io/twitter/follow/@gkrmdhn?logo=twitter&style=for-the-badge" alt="@gkrmdhn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@gkrmdhn" target="blank"><img src="https://img.shields.io/twitter/follow/gkrmdhn?logo=twitter&style=for-the-badge" alt="@gkrmdhn" /></a> </p>
 
 - 🌱 I’m currently learning **how to write code**
 
