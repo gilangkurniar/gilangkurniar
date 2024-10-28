@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gilkr20@gmail.com**
 
-- ⚡ Fun fact **practice make perfect**
+- ⚡ Fun fact **im the learning-by-doing type**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
