@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **im the learning-by-doing type**
   
-- 🙏 I rarely upload on **GithHub** back then
+- 🙏 I rarely upload on **GitHub** back then
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
