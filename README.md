@@ -14,9 +14,9 @@
 
 - 📫 Reach me : **gilangkurniarmdhn@gmail.com**
 
-- ⚡ Fun fact **im the learning-by-doing type**
+- ⚡ Fun fact **I'm the learning-by-doing type**
   
-- 🙏 I rarely upload on **GitHub** back then
+- 🙏 I rarely upload on **GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
